@@ -66,7 +66,7 @@ public class App { //This code defines a new class called App. A class is like a
             skanneri.close();
             break;
             
-            default: //Maybe some error guides here
+            default: //Maybe some error guides hered
             System.out.println("Syöte oli väärä");
             break;
 
